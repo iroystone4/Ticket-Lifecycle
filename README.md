@@ -42,14 +42,14 @@ Fill in the required information in the ticket submission form. The form may var
 <a href="https://imgur.com/K1lEecG"><img src="https://i.imgur.com/K1lEecG.png" title="source: imgur.com" /></a>
 </p>
 <p>
-After filling out the ticket log in as Agent click "Tickets", then "Open" to begin working on closing out the tickets.
+After filling out the ticket log in as Agent, click "Tickets", then "Open" to begin working on closing out the tickets.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/fgun5O4"><img src="https://i.imgur.com/fgun5O4.png" title="source: imgur.com" /></a>
 </p>  
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the ticket has been created, it is important to provide timely updates and responses to the customer. Communicate with the customer through the ticketing system, providing assistance or seeking further clarification if necessary.
 </p>
 <br />
